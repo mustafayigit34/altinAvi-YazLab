@@ -2,4 +2,4 @@
 
 Yazlab 1.proje
 
-Poje detayları için : [Proje Raporu](https://github.com/sevkikaragol/altinAviOyunu-Yazlab/blob/main/rapor.pdf)
+Poje detayları için : [Proje Raporu](https://github.com/mustafayigit34/altinAvi-Yazlab/blob/main/rapor.pdf)
